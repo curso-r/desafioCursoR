@@ -1,0 +1,25 @@
+html {
+  height: 100vh;
+  background: rgb(97,173,133);
+  background: radial-gradient(circle, rgba(97,173,133,1) 0%, rgba(121,9,29,1) 13%, rgba(23,87,6,1) 100%);
+}
+
+body {
+  margin: 10% 10%;
+  background-color: transparent;
+}
+
+.texto_cliques {
+  font-size: 3em;
+  color: white;
+}
+
+.num_cliques {
+  font-size: 5em;
+  color: white;
+}
+
+.bttn-gradient.bttn-md, .bttn-simple.bttn-md {
+  font-size: 50px;
+  padding: 15px 32px;
+}
